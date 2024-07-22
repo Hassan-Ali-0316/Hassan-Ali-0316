@@ -1,6 +1,6 @@
 ## Hi there I'm Hassan👋
 
-# 💫 About Me:
+
 -  I'm a computer science undergrad currently in 4th semester<br>-  I have interest in Machine Learning/Deep Learning<br><br>- 🌱 Currently learning Deep Learning<br>- 📨 How to reach me **ha159193@gmail.com**
 
 # 📊 GitHub Stats:
